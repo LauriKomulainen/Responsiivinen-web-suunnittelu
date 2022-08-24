@@ -97,7 +97,7 @@ a {
 }
 
 a:hover {
-	color: #ffffff;
+	color: #000000;
 }
 
 /* ==== LAYOUT STYLES ==== */
@@ -182,7 +182,7 @@ pre,table,fieldset,hr,
 }
 
 .button:hover {
-	border: 1px solid #246cca;
+	border: 1px solid #0a0a0a;
 }
 
 .load {
