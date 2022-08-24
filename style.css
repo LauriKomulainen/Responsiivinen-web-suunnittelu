@@ -97,7 +97,7 @@ a {
 }
 
 a:hover {
-	color: #b60e63;
+	color: #ffffff;
 }
 
 /* ==== LAYOUT STYLES ==== */
@@ -171,8 +171,8 @@ pre,table,fieldset,hr,
 
 .button {
 	display: inline-block;
-	border: 1px solid #8c8e9b;
-	color: #8c8e9b;
+	border: 1px solid #cacee9;
+	color: #bbc0e2;
 	border-radius: 10px;
 	padding-right: 5px;
 	padding-left: 5px;
@@ -182,7 +182,7 @@ pre,table,fieldset,hr,
 }
 
 .button:hover {
-	border: 1px solid #b60e63;
+	border: 1px solid #246cca;
 }
 
 .load {
